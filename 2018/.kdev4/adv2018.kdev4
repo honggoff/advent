@@ -1,0 +1,151 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x14\x00a\x00d\x00v\x002\x000\x001\x008\x00_\x000\x001)
+
+[Launch]
+Launch Configurations=Launch Configuration 0,Launch Configuration 1,Launch Configuration 2,Launch Configuration 3,Launch Configuration 4,Launch Configuration 5,Launch Configuration 6,Launch Configuration 7,Launch Configuration 8,Launch Configuration 9,Launch Configuration 10
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=02.py
+Type=Script Application
+
+[Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=adv2018_01,02,02.py
+Executable=file:///home/hong/src/advent/2018/02/02.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 1]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=03.py
+Type=Script Application
+
+[Launch][Launch Configuration 1][Data]
+Configured from ProjectItem=adv2018_01,03,03.py
+Executable=file:///home/hong/src/advent/2018/03/03.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 10]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=12.py
+Type=Script Application
+
+[Launch][Launch Configuration 10][Data]
+Configured from ProjectItem=adv2018_01,12,12.py
+Executable=file:///home/hong/src/advent/2018/12/12.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 2]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=04.py
+Type=Script Application
+
+[Launch][Launch Configuration 2][Data]
+Configured from ProjectItem=adv2018_01,04,04.py
+Executable=file:///home/hong/src/advent/2018/04/04.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 3]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=05.py
+Type=Script Application
+
+[Launch][Launch Configuration 3][Data]
+Configured from ProjectItem=adv2018_01,05,05.py
+Executable=file:///home/hong/src/advent/2018/05/05.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 4]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=06.py
+Type=Script Application
+
+[Launch][Launch Configuration 4][Data]
+Configured from ProjectItem=adv2018_01,06,06.py
+Executable=file:///home/hong/src/advent/2018/06/06.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 5]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=07.py
+Type=Script Application
+
+[Launch][Launch Configuration 5][Data]
+Configured from ProjectItem=adv2018_01,07,07.py
+Executable=file:///home/hong/src/advent/2018/07/07.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 6]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=08.py
+Type=Script Application
+
+[Launch][Launch Configuration 6][Data]
+Configured from ProjectItem=adv2018_01,08,08.py
+Executable=file:///home/hong/src/advent/2018/08/08.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 7]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=09.py
+Type=Script Application
+
+[Launch][Launch Configuration 7][Data]
+Configured from ProjectItem=adv2018_01,09,09.py
+Executable=file:///home/hong/src/advent/2018/09/09.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 8]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=10.py
+Type=Script Application
+
+[Launch][Launch Configuration 8][Data]
+Configured from ProjectItem=adv2018_01,10,10.py
+Executable=file:///home/hong/src/advent/2018/10/10.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[Launch][Launch Configuration 9]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=11.py
+Type=Script Application
+
+[Launch][Launch Configuration 9][Data]
+Configured from ProjectItem=adv2018_01,11,11.py
+Executable=file:///home/hong/src/advent/2018/11/11.py
+Interpreter=python3
+Output Filtering Mode=2
+Run current file=false
+
+[SourceFileTemplates]
+LastUsedTemplate=/home/hong/.local/share/kdevfiletemplates/template_descriptions/python_basic.desktop
